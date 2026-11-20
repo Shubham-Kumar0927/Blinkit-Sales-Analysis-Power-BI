@@ -39,6 +39,10 @@ This project focuses on analyzing Blinkit sales data using Power BI to understan
 - Enables analysis of outlet sizes and establishment trends.
 - Supports data-driven business decisions.
 
+  ## 📊 Dashboard Preview
+
+![Blinkit Dashboard](blinkit_Dashboard.png)
+
 
 
 
