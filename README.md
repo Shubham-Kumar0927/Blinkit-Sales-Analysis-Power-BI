@@ -41,7 +41,7 @@ This project focuses on analyzing Blinkit sales data using Power BI to understan
 
   ## 📊 Dashboard Preview
 
-![Blinkit Dashboard](blinkit_Dashboard.png)
+![Blinkit Dashboard](blinkit_dashboard.png)
 
 
 
